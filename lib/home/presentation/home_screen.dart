@@ -47,7 +47,7 @@ class _HomeScreenState extends State<HomeScreen> {
             width: 4.w,
           ),
           Text(
-            "IN",
+            Provider.of<HomeProvider>(context, listen: true).remoteConfig.getString("country").toString().toUpperCase(),
             style: TextStyle(
                 fontFamily: "Poppins",
                 fontSize: 14.spMin,
