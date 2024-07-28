@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506927432291",
+    "project_id": "pingolearnmynews",
+    "storage_bucket": "pingolearnmynews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506927432291:android:524942651b3d4a77386e56",
+        "android_client_info": {
+          "package_name": "com.gauravsingh.pingolearnmynews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBehZdHR6iQtIsR6kGrule_9FbypFf8gks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
